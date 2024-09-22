@@ -1,51 +1,13 @@
 {
   "basics": {
     "name": "Wenjie Xu",
-    "label": "Graduate Student",
+    "label": "Master's student ",
     "image": "",
-    "email": "wenjie_xu2000@outlook.com",
+    "email": "wenjie.xu.cn@outlook.com",
     "phone": "(+86) 17372312035",
-    "url": "https://github.com/WenjieXu2000",
-    "summary": "Hahaha.",
-    "location": {
-      "address": "No.15 North Yitiao, Zhongguancun, Haidian District",
-      "postalCode": "101408",
-      "city": "Beijing",
-      "countryCode": "CN",
-      "region": "Beijing"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "url": "https://github.com/WenjieXuCN",
+    "summary": "Hahaha."
   },
-
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
       "institution": "Institutes of Science and Development, Chinese Academy of Sciences",
@@ -54,7 +16,7 @@
       "area": "Software Development",
       "studyType": "PhD",
       "startDate": "2023-09-01",
-      "endDate": "2026-06-30",
+      "endDate": "2029-06-30",
       "score": "10",
       "courses": ["Management Science and Engineering"]
     }

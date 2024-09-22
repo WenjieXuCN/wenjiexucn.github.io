@@ -1,9 +1,9 @@
 github_users:
-  - WenjieXu2000
+  - WenjieXuCN
 repo_description_lines_max: 2
 
 github_repos:
   - alshedivat/al-folio
   - jekyll/jekyll
   - FortAwesome/Font-Awesome
-  - WenjieXu2000/chinese-copywriting-guidelines
+  - WenjieXuCN/chinese-copywriting-guidelines

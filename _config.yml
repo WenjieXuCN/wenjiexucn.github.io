@@ -6,7 +6,7 @@ title: Wenjie Xu # the website title (if blank, full name will be used instead)
 first_name: Wenjie
 # middle_name:
 last_name: Xu
-email: wenjie_xu2000@outlook.com
+email: wenjie.xu.cn@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Wenjie Xu's home page.
 footer_text: >
@@ -16,7 +16,7 @@ keywords: Wenjie Xu, Wayne Xu, 徐文杰, UCAS, University of Chinese Academy of
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://wenjiexu2000.github.io # the base hostname & protocol for your site
+url: https://wenjiexucn.github.io/ # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -38,8 +38,7 @@ repo_trophies:
 # RSS Feed
 # -----------------------------------------------------------------------------
 # will use title and url fields
-# Take a look to https://github.com/jekyll/jekyll-feed for more customization
-
+# Take a look to https://github.com/jekyll/jekyll-feed for more customizatio
 rss_icon: true
 
 # -----------------------------------------------------------------------------
@@ -56,7 +55,6 @@ bib_search: true
 max_width: 930px
 
 # TODO: add layout settings (single page vs. multi-page)
-
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
@@ -77,7 +75,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: WenjieXu2000 # your GitHub user name
+github_username: WenjieXuCN # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
@@ -94,7 +92,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: https://www.researchgate.net/profile/Wenjie-Xu-19 # your profile on ResearchGate
-scholar_userid: MM_JkOIAAAAJ # your Google Scholar ID
+scholar_userid: eWTidmsAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -111,7 +109,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: wenjie_xu2000 # your zotero username
 
 contact_note: >
-  Feel free to contact me anytime through my email: wenjie_xu2000@outlook.com.
+  Feel free to contact me anytime through my email: wenjie.xu.cn@outlook.com.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -119,8 +117,8 @@ contact_note: >
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: G-3Z04CM21KY # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
-cronitor_analytics: 8227293475 # cronitor RUM analytics site ID (format: XXXXXXXXX)
+google_analytics: G-H0H008S793 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+cronitor_analytics: e0cf5fbd26f3e15c073ddee17fccac72 # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
@@ -147,7 +145,7 @@ related_blog_posts:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: WenjieXu2000/BlogComments # <your-github-user-name>/<your-github-repo-name>
+  repo: WenjieXuCN/BlogComments # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOMFTH3A # leave empty or specify your repo_id (see https://giscus.app/)
   category: Announcements # name of the category under which discussions will be created
   category_id: DIC_kwDOMFTH3M4Cf4dF # leave empty or specify your category_id (see https://giscus.app/)
@@ -157,7 +155,7 @@ giscus:
   input_position: bottom # whether to display input form below (bottom) or above (top) the comments
   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
-  lang: en
+  lang: zh-CN
 
 # Disqus comments (DEPRECATED)
 # disqus_shortname: WenjieXu2000 # put your disqus shortname
@@ -225,7 +223,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_app"]
+include: ["_pages"]
 exclude:
   - bin/
   - CONTRIBUTING.md

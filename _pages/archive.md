@@ -3,7 +3,7 @@ layout: page
 permalink: /archive/
 title: Archive
 description: A chronological archive of all my blog posts.
-nav: true
+nav: false
 nav_order: 2
 ---
 
