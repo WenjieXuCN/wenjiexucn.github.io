@@ -35,8 +35,8 @@ mitigation.
 ⚡ I have a strong passion for programming and software development, and I enjoy using these skills to create
 innovative tools that address real-world challenges.
 
-📝 I regularly write articles and share insights on my <a href="https://wenjiexu2000.github.io/blog/"
+📝 I regularly write articles and share insights on my <a href="https://wenjiexucn.github.io/blog/"
     target="_blank">personal blog</a>. Visit to stay updated with my latest research and projects.
 
 💬 <em>I love dealing with different people. Feel free to reach out to me with any inquiries at <a
-        href="mailto:wenjie_xu2000@outlook.com">wenjie_xu2000@outlook.com</a>.</em>
+        href="mailto:wenjie.xu.cn@outlook.com">wenjie.xu.cn@outlook.com</a>.</em>
