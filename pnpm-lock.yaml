@@ -6,21 +6,20 @@ settings:
 
 importers:
   .:
-    dependencies:
-      prettier:
-        specifier: ^3.3.3
-        version: 3.3.3
     devDependencies:
       "@shopify/prettier-plugin-liquid":
-        specifier: 1.5.0
-        version: 1.5.0(prettier@3.3.3)
+        specifier: 1.4.0
+        version: 1.4.0(prettier@3.1.1)
+      prettier:
+        specifier: 3.1.1
+        version: 3.1.1
 
 packages:
   "@shopify/liquid-html-parser@2.0.5":
     resolution: { integrity: sha512-MYp/fe3jSjzmRu6HlbaG/1IJpdB39iShdvnc5biDPjlBhLr0PH/2rHXVdthlAcYDhJvd7DTd7TV0kl3erpUNGg== }
 
-  "@shopify/prettier-plugin-liquid@1.5.0":
-    resolution: { integrity: sha512-CuWjUnBCvq/RTmubEa5RfwW2oP2gYfTXaJ39t4apAYm//1v5Ftvv1bbhEnoEZwCjPshaAJLhSzP9dvCel4cebw== }
+  "@shopify/prettier-plugin-liquid@1.4.0":
+    resolution: { integrity: sha512-Fd0QiPi0bpSapUG0plri1+bLew9j//Q0MFKkBjkIG4RTJC76dycVysf5Dy7JvbvIjSJ4YFxaT0PBW5v9O7JItQ== }
     peerDependencies:
       prettier: ^2.0.0 || ^3.0.0
 
@@ -41,8 +40,8 @@ packages:
     resolution: { integrity: sha512-X9P4koSGa7swgVQ0gt71UCYtkAQGOjciJPJAz74kDxWt8nXbH5HrDOQG6qBDH7SR40ktNv4x61BwpTDE9q4lRA== }
     engines: { node: ">=0.12.1" }
 
-  prettier@3.3.3:
-    resolution: { integrity: sha512-i2tDNA0O5IrMO757lfrdQZCc2jPNDVntV0m/+4whiDfWaTKfMNgR7Qz0NAeGz/nRqF4m5/6CLzbP4/liHt12Ew== }
+  prettier@3.1.1:
+    resolution: { integrity: sha512-22UbSzg8luF4UuZtzgiUOfcGM8s4tjBv6dJRT7j275NXsy2jb4aJa4NNveul5x4eqlF1wuhuR2RElK71RvmVaw== }
     engines: { node: ">=14" }
     hasBin: true
 
@@ -52,11 +51,11 @@ snapshots:
       line-column: 1.0.2
       ohm-js: 16.6.0
 
-  "@shopify/prettier-plugin-liquid@1.5.0(prettier@3.3.3)":
+  "@shopify/prettier-plugin-liquid@1.4.0(prettier@3.1.1)":
     dependencies:
       "@shopify/liquid-html-parser": 2.0.5
       html-styles: 1.0.0
-      prettier: 3.3.3
+      prettier: 3.1.1
 
   html-styles@1.0.0: {}
 
@@ -73,4 +72,4 @@ snapshots:
 
   ohm-js@16.6.0: {}
 
-  prettier@3.3.3: {}
+  prettier@3.1.1: {}
